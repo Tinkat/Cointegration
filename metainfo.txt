@@ -1,0 +1,13 @@
+Name of Quantlet:  Observed_Latent_FActor
+ 
+Published in:      R 
+  
+Description:       Testing for common factors and identifying observed factors for common latent factors through linear regression
+ 
+Keywords:          common_trend, latent_common_factors, cointegration, ADF_test, regression
+
+Author:            Cathy Chen, Hien Pham Thu
+  
+Submitted:         15.12.2017 by Hien Pham Thu
+  
+
